@@ -6,13 +6,6 @@
 1. welcome to my Python project 
 2.
 
-: rocket :
-: rocket :
-: rocket :
-: rocket :
-: rocket :
-: rocket :
-: rocket :
-: rocket :
+:rocket:
 
 :blush:
